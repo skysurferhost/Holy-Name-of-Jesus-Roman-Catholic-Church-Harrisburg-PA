@@ -199,7 +199,7 @@ var APP_DATA = {
           "yaw": -0.015547870633257688,
           "pitch": 0.0037740231641532063,
           "rotation": 0,
-          "target": "9-holy-name-of-jesus-church-harrisburg-pa"
+          "target": "10-holy-name-of-jesus-church-harrisburg-pa"
         },
         {
           "yaw": -0.036586666323762174,
